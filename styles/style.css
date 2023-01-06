@@ -176,6 +176,7 @@ li.failure-item{
 .contact-content img{
     width: 400px;
     margin-left: -110px;
+    cursor: zoom-in;
 }
 
 
@@ -211,6 +212,7 @@ footer.footer-section{
 }
 .footer-content .social img{
     margin: 16px 17px 0 0;
+    cursor: pointer;
 }
 .footer-right{
     display: flex;
@@ -233,4 +235,5 @@ color: #FFFFFF;
     font-weight: 600;
     background: #005FAC;
     color: #FFFFFF;
+    cursor: pointer;
 }
